@@ -25,8 +25,6 @@ anger
 angle
 animal
 answer
-ant
-ants
 apparatus
 apparel
 apple
@@ -43,10 +41,7 @@ attack
 attempt
 attention
 attraction
-aunt
 authority
-babies
-baby
 back
 badge
 bag
@@ -77,7 +72,6 @@ beds
 bee
 beef
 beetle
-beggar
 beginner
 behavior
 belief
@@ -94,13 +88,11 @@ birthday
 bit
 bite
 blade
-blood
 blow
 board
 boat
 boats
 body
-bomb
 bone
 book
 books
@@ -109,8 +101,6 @@ border
 bottle
 boundary
 box
-boy
-boys
 brain
 brake
 branch
@@ -120,8 +110,6 @@ breakfast
 breath
 brick
 bridge
-brother
-brothers
 brush
 bubble
 bucket
@@ -163,7 +151,6 @@ cause
 cave
 celery
 cellar
-cemetery
 cent
 chain
 chair
@@ -220,21 +207,18 @@ cover
 cow
 cows
 crack
-cracker
 crate
 crayon
 cream
 creator
 creature
 credit
-crib
 crime
 crook
 crow
 crowd
 crown
 crush
-cry
 cub
 cup
 current
@@ -242,9 +226,7 @@ curtain
 curve
 cushion
 dad
-daughter
 day
-death
 debt
 decision
 deer
@@ -263,8 +245,6 @@ direction
 dirt
 discovery
 discussion
-disease
-disgust
 distance
 distribution
 division
@@ -272,8 +252,6 @@ dock
 doctor
 dog
 dogs
-doll
-dolls
 donkey
 door
 downtown
@@ -283,7 +261,6 @@ dress
 drink
 driving
 drop
-drug
 drum
 duck
 ducks
@@ -312,15 +289,11 @@ eye
 eyes
 face
 fact
-fairies
 fall
-family
 fan
 fang
 farm
 farmer
-father
-father
 faucet
 fear
 feast
@@ -386,8 +359,6 @@ government
 governor
 grade
 grain
-grandfather
-grandmother
 grape
 grass
 grip
@@ -442,14 +413,12 @@ income
 increase
 industry
 ink
-insect
 instrument
 insurance
 interest
 invention
 iron
 island
-jail
 jam
 jar
 jeans
@@ -464,8 +433,6 @@ juice
 jump
 kettle
 key
-kick
-kiss
 kite
 kitten
 kittens
@@ -517,7 +484,6 @@ machine
 magic
 maid
 mailbox
-man
 manager
 map
 marble
@@ -531,7 +497,6 @@ measure
 meat
 meeting
 memory
-men
 metal
 mice
 middle
@@ -592,7 +557,6 @@ owl
 owner
 page
 pail
-pain
 paint
 pan
 pancake
@@ -628,7 +592,6 @@ place
 plane
 planes
 plant
-plantation
 plants
 plastic
 plate
@@ -641,7 +604,6 @@ pocket
 point
 poison
 police
-polish
 pollution
 popcorn
 porter
@@ -673,7 +635,6 @@ quiet
 quill
 quilt
 quince
-quiver
 rabbit
 rabbits
 rail
@@ -682,7 +643,6 @@ rain
 rainstorm
 rake
 range
-rat
 rate
 ray
 reaction
@@ -691,7 +651,6 @@ reason
 receipt
 recess
 record
-regret
 relation
 religion
 representative
@@ -719,7 +678,6 @@ route
 rub
 rule
 run
-sack
 sail
 salt
 sand
@@ -740,10 +698,8 @@ seed
 selection
 self
 sense
-servant
 shade
 shake
-shame
 shape
 sheep
 sheet
@@ -761,8 +717,6 @@ sign
 silk
 silver
 sink
-sister
-sisters
 size
 skate
 skin
@@ -774,7 +728,6 @@ sleet
 slip
 slope
 smash
-smell
 smile
 smoke
 snail
@@ -797,12 +750,10 @@ soup
 space
 spade
 spark
-spiders
 sponge
 spoon
 spot
 spring
-spy
 square
 squirrel
 stage
@@ -892,7 +843,6 @@ trade
 trail
 train
 trains
-tramp
 transport
 tray
 treatment
@@ -911,7 +861,6 @@ twig
 twist
 umbrella
 uncle
-underwear
 unit
 use
 vacation
@@ -939,7 +888,6 @@ watch
 water
 wave
 waves
-wax
 way
 wealth
 weather
@@ -956,8 +904,6 @@ wing
 winter
 wire
 wish
-woman
-women
 wood
 wool
 word
