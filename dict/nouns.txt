@@ -165,7 +165,6 @@ cherry
 chess
 chicken
 chickens
-children
 chin
 church
 circle
