@@ -140,7 +140,6 @@ cheap
 cheerful
 chemical
 chief
-childlike
 chilly
 chivalrous
 chubby
@@ -536,8 +535,6 @@ marvelous
 material
 materialistic
 mature
-measly
-meaty
 medical
 meek
 mellow
@@ -905,7 +902,6 @@ torpid
 tough
 towering
 tranquil
-trashy
 tremendous
 tricky
 trite
