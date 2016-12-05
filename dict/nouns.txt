@@ -344,8 +344,6 @@ geese
 ghost
 giants
 giraffe
-girl
-girls
 glass
 glove
 glue
